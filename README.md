@@ -1,6 +1,6 @@
 # Introduction:
 
-Well, this is a task from Hahn Softwareentwicklung & is a CRUD Frontend and Backend developed by Josué Lackwood M. 
+Well, this is a task & is a CRUD Frontend and Backend developed by Josué Lackwood M. 
 
 # Task Description:
 
