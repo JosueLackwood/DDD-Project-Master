@@ -1,0 +1,96 @@
+<style>
+  :host {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .spacer {
+    flex: 1;
+  }
+
+  .toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-weight: 600;
+  }
+
+  .toolbar img {
+    margin: 0 16px;
+  }
+
+  .toolbar #github-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+
+
+  a,
+  a:visited,
+  a:hover {
+    color: #d21935;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #f56c1c;
+  }
+
+  footer {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+  }
+
+  footer a {
+    display: flex;
+    align-items: center;
+  }
+
+</style>
+
+<!-- Toolbar -->
+<div class="toolbar" role="banner">
+
+  <span style="padding-left: 10px;">Police reporting service.</span>
+  <div class="spacer"></div>
+  <button mat-icon-button color="basic" aria-label="Reload table" (click)="refresh()">
+    <mat-icon>replay</mat-icon>
+  </button>
+
+</div>
+
+<body class="modal">
+<div class="content" role="main">
+  <!-- <mat-card> -->
+   <h1 align="center" class="md-display-2">Police reporting service.</h1>
+  <!-- </mat-card> -->
+
+  <app-report-table class="table"></app-report-table>
+
+</div>
+
+
+
+ 
+</body>
+ <!-- Footer -->
+ <footer>
+  Icons by: -<a target="_blank" href="https://icons8.com">Icons8</a>
+</footer>
+<router-outlet></router-outlet>

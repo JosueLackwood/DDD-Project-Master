@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UksQ+7M0a2w3qZk6kaEIAL/BgVVeL7pI2u9JA93NfRSsLpBxiF4RMmbA8BHI+EHD/EsDE3Mv5PB4GmO7lzXHw==",
+  "success": true,
+  "projectFilePath": "D:\\Game Projects\\DDD-CRUD\\Backend\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KADI\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

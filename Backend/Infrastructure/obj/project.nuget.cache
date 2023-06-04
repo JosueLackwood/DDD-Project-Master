@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KmS+UL8pzXnQMku2h7Uz1Zu3Opza3rQG6ABtMkJU/eGcfhSHig9Js3BueZv3rtlSKMgGCwPMXGSvEv6ompoUw==",
+  "success": true,
+  "projectFilePath": "D:\\Game Projects\\DDD-CRUD\\Backend\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KADI\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\KADI\\.nuget\\packages\\litedb\\5.0.15\\litedb.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
