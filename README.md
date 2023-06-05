@@ -18,7 +18,7 @@ The assigned task involved the following objectives:
 
 Entities and Value Objects:
 
-The primary entity is ReportAggregate, encompassing details about the reported fires' location and county. It also includes a list of individual reports and basic fire index statistics. ReportItem serves as the value object representing an individual report contained within a ReportAggregate.
+The primary entity is ReportAggregate, encompassing details about the reported police' location and county. It also includes a list of individual reports and basic police index statistics. ReportItem serves as the value object representing an individual report contained within a ReportAggregate.
 
 Back-End Development:
 
