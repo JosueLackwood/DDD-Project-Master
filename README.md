@@ -40,7 +40,7 @@ As my experience with browser-based frameworks like Angular was limited, the fro
 
 3) Functionality to create, update, and delete ReportAggregates and their respective ReportItems.
 
-To enhance the project's appeal, I decided to center it around a police reporting service. The focus is on enabling users to view and submit reports (ReportItem) related to forest fires occurring at specific locations within a county (ReportAggregate).
+To enhance the project's appeal, I decided to center it around a police reporting service. The focus is on enabling users to view and submit reports (ReportItem) related to incidents ocurring at specific locations within a county (ReportAggregate).
 
 ## How to use?
 
